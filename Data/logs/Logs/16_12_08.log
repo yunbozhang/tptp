@@ -1,0 +1,132 @@
+[ 2016-12-08T09:02:35+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000784s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000910s ]
+NOTIC: [2048] Declaration of IndexAction::show() should be compatible with Action::show($content, $charset = '', $contentType = '') /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/Lib/Action/Home/IndexAction.class.php 第 4 行.
+NOTIC: [2] Cannot use a scalar value as an array /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Core/Action.class.php 第 209 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Driver/Db/DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `tp_agent` [ RunTime:0.012179s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Core/Db.class.php 第 571 行.
+SQL: SELECT * FROM `tp_agent` WHERE ( `siteurl` = 'http://127.0.0.1' ) LIMIT 1   [ RunTime:0.002670s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:-0.035954s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000792s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 164 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 354 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 354 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 354 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 354 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 354 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 354 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 354 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 354 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 354 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 354 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 359 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 193 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /Applications/XAMPP/xamppfiles/htdocs/toupiao/31cms/_Core/Lib/Template/ThinkTemplate.class.php 第 133 行.
+INFO: Run ParseTemplate Behavior [ RunTime:-0.036764s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009481s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:-0.046272s ]
+INFO: Run TokenBuild Behavior [ RunTime:-0.046881s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:-0.047560s ]
+INFO: Run ShowRuntime Behavior [ RunTime:-0.048168s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002595s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:-0.048916s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000909s ]
+
+[ 2016-12-08T09:02:36+08:00 ] ERR: (ThinkException) 无法加载模块:favicon.ico
